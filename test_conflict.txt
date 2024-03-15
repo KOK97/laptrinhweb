@@ -1,0 +1,2 @@
+Day la file conflict.txt
+Thuoc branch test_conflict va master
